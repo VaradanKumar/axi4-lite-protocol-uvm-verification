@@ -1,0 +1,11 @@
+# Ignore everything by default
+*
+
+# Allow directories to be traversed
+!*/
+
+# Allow SystemVerilog source files, filelists, and documentation
+!*.sv
+!*.f
+!.gitignore
+!README.md
